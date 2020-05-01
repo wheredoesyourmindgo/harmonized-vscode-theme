@@ -12,9 +12,10 @@
   "preview": true,
   "publisher": "wheredoesyourmindgo",
   "galleryBanner": {
-    "color": "#1b1f23",
-    "theme": "dark"
+    "color": "#fdf6e3",
+    "theme": "light"
   },
+  "icon": "images/icon.png",
   "repository": {
     "type": "git",
     "url": "https://github.com/wheredoesyourmindgo/harmonized-vscode-theme"
