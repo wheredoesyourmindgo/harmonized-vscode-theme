@@ -1,0 +1,70 @@
+{
+  "name": "harmonized-vscode-theme",
+  "displayName": "Harmonized",
+  "description": "Solarized in harmony",
+  "version": "0.0.1",
+  "scripts": {
+    "release:major": "yarn build && vsce publish major && git push",
+    "release:minor": "yarn build && vsce publish minor && git push",
+    "release:patch": "yarn build && vsce publish patch && git push",
+    "build": "node src/index.js"
+  },
+  "preview": true,
+  "publisher": "wheredoesyourmindgo",
+  "galleryBanner": {
+    "color": "#1b1f23",
+    "theme": "dark"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wheredoesyourmindgo/harmonized-vscode-theme"
+  },
+  "bugs": {
+    "url": "https://github.com/wheredoesyourmindgo/harmonized-vscode-theme/issues"
+  },
+  "engines": {
+    "vscode": "^1.44.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "solarized",
+    "light",
+    "dark"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Harmonized light",
+        "uiTheme": "vs",
+        "path": "./themes/light.json"
+      },
+      {
+        "label": "Harmonized dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dark.json"
+      },
+      {
+        "label": "Harmonized light _",
+        "uiTheme": "vs",
+        "path": "./themes/light_.json"
+      },
+      {
+        "label": "Harmonized dark _",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dark_.json"
+      }
+    ]
+  },
+  "license": "MIT",
+  "__metadata": {
+    "publisherDisplayName": "wheredoesyourmindgo"
+  },
+  "devDependencies": {
+    "@types/vscode": "^1.44.0",
+    "node-fetch": "^2.6.0",
+    "strip-json-comments": "^3.1.0"
+  }
+}
