@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.1.4
+
+- README.md updated
+
 ## 0.1.3
 
 - Fix noFolderBackground accent color for Status Bar
