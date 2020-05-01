@@ -9,7 +9,7 @@
     "release:patch": "yarn build && vsce publish patch && git push",
     "build": "node src/index.js"
   },
-  "preview": true,
+  "preview": false,
   "publisher": "wheredoesyourmindgo",
   "galleryBanner": {
     "color": "#fdf6e3",

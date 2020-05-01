@@ -9,7 +9,6 @@ const solarizedLightUrl =
   "https://api.github.com/repos/microsoft/vscode/contents/extensions/theme-solarized-light/themes/solarized-light-color-theme.json";
 const commonAccentColors = {
   "statusBar.debuggingBackground": "#859900",
-  "statusBar.noFolderBackground": "#b58900",
   "statusBar.foreground": "#ffffff",
   "statusBar.debuggingForeground": "#ffffff",
   "statusBar.noFolderForeground": "#ffffff",
@@ -36,7 +35,8 @@ getTheme({
       colors: {
         ...theme.colors,
         ...commonAccentColors,
-        "statusBar.background": "#268BD2"
+        "statusBar.background": "#268BD2",
+        "statusBar.noFolderBackground": "#586e75"
       },
     };
     fs.writeFileSync("./themes/light.json", JSON.stringify(theme, null, 2));
@@ -66,7 +66,8 @@ getTheme({
       colors: {
         ...theme.colors,
         ...commonAccentColors,
-        "statusBar.background": "#2aa198"
+        "statusBar.background": "#2aa198",
+        "statusBar.noFolderBackground": "#93a1a1"
       },
     };
     fs.writeFileSync("./themes/dark.json", JSON.stringify(theme, null, 2));
