@@ -36,7 +36,7 @@ getTheme({
         ...theme.colors,
         ...commonAccentColors,
         "statusBar.background": "#268BD2",
-        "statusBar.noFolderBackground": "#586e75"
+        "statusBar.noFolderBackground": "#93a1a1"
       },
     };
     fs.writeFileSync("./themes/light.json", JSON.stringify(theme, null, 2));
@@ -67,7 +67,7 @@ getTheme({
         ...theme.colors,
         ...commonAccentColors,
         "statusBar.background": "#2aa198",
-        "statusBar.noFolderBackground": "#93a1a1"
+        "statusBar.noFolderBackground": "#586e75"
       },
     };
     fs.writeFileSync("./themes/dark.json", JSON.stringify(theme, null, 2));
