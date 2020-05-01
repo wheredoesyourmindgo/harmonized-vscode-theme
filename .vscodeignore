@@ -5,3 +5,4 @@ extra/**
 .vscode-test/**
 .gitignore
 .markdownlintrc
+src/**
