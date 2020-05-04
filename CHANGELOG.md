@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.1.5
+
+- Logo updated
+
 ## 0.1.4
 
 - README.md updated
