@@ -1,8 +1,12 @@
 # Changelog
 
+## 0.1.7
+
+- Activity bar active border updated
+
 ## 0.1.6
 
-- Activity Bar foreground updated
+- Activity bar foreground updated
 
 ## 0.1.5
 

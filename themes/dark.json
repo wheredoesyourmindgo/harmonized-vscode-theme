@@ -788,7 +788,8 @@
     "sideBar.foreground": "#839496",
     "editorLineNumber.foreground": "#586e75",
     "terminal.foreground": "#839496",
-    "badge.foreground": "#fdf6e3"
+    "badge.foreground": "#fdf6e3",
+    "activityBar.activeBorder": "#b58900"
   },
   "semanticHighlighting": true
 }

@@ -13,6 +13,7 @@ module.exports = {
     "editorIndentGuide.background": "#586E7533",
     "editorIndentGuide.activeBackground": "#081E2540",
     "activityBar.foreground": "#586e75",
+    "activityBar.activeBorder": "#b58900",
   },
   tokenColors: [
     // Use orange color for CSS ID Selector.
