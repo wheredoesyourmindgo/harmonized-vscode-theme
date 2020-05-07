@@ -789,7 +789,7 @@
     "editorLineNumber.foreground": "#586e75",
     "terminal.foreground": "#839496",
     "badge.foreground": "#fdf6e3",
-    "activityBar.activeBorder": "#b58900",
+    "activityBar.activeBorder": "#268bd2",
     "statusBar.debuggingForeground": "#ffffff",
     "statusBar.noFolderForeground": "#ffffff"
   },
