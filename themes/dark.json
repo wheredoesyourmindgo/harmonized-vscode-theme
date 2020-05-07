@@ -696,7 +696,7 @@
   ],
   "colors": {
     "focusBorder": "#268bd2CC",
-    "selection.background": "#268bd2CC",
+    "selection.background": "#268bd259",
     "input.background": "#003847",
     "input.foreground": "#93A1A1",
     "input.placeholderForeground": "#93A1A1AA",

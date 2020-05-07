@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.1.11
+
+- Increase transparency of selection background
+
 ## 0.1.10
 
 - Workbench updates

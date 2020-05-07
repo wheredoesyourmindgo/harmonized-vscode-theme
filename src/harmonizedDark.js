@@ -22,7 +22,7 @@ module.exports = {
     "statusBarItem.remoteBackground": "#268bd2CC",
     "pickerGroup.border": "#268bd2CC",
     "pickerGroup.foreground": "#268bd2CC",
-    "selection.background": "#268bd2CC",
+    "selection.background": "#268bd259",
   },
   tokenColors: [
     // Use orange color for CSS ID Selector.

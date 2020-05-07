@@ -708,7 +708,7 @@
     "dropdown.background": "#EEE8D5",
     "dropdown.border": "#b58900CC",
     "button.background": "#b58900CC",
-    "selection.background": "#b58900CC",
+    "selection.background": "#b5890059",
     "list.activeSelectionBackground": "#DFCA88",
     "list.activeSelectionForeground": "#6C6C6C",
     "list.focusBackground": "#DFCA8866",
