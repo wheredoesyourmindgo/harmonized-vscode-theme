@@ -784,7 +784,7 @@
     "editor.foreground": "#93a1a1",
     "list.hoverForeground": "#BBBBBB",
     "quickInput.foreground": "#839496",
-    "activityBar.foreground": "#BBBBBB",
+    "activityBar.foreground": "#93a1a1",
     "sideBar.foreground": "#839496",
     "editorLineNumber.foreground": "#586e75",
     "terminal.foreground": "#839496",

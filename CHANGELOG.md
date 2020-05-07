@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.1.6
+
+- Activity Bar foreground updated
+
 ## 0.1.5
 
 - Logo updated
