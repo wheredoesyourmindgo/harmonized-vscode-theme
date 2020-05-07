@@ -15,6 +15,14 @@ module.exports = {
     "activityBar.foreground": "#93a1a1",
     "activityBar.activeBorder": "#268bd2",
     "badge.background": "#268bd2CC",
+    "dropdown.border": "#268bd2CC",
+    focusBorder: "#268bd2CC",
+    "inputOption.activeBorder": "#268bd2CC",
+    "button.background": "#268bd2CC",
+    "statusBarItem.remoteBackground": "#268bd2CC",
+    "pickerGroup.border": "#268bd2CC",
+    "pickerGroup.foreground": "#268bd2CC",
+    "selection.background": "#268bd2CC",
   },
   tokenColors: [
     // Use orange color for CSS ID Selector.

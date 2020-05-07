@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.1.10
+
+- Workbench updates
+
 ## 0.1.9
 
 - Badge background updated
