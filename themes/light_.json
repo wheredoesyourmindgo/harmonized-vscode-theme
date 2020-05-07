@@ -703,7 +703,7 @@
     "input.foreground": "#586E75",
     "input.placeholderForeground": "#586E75AA",
     "inputOption.activeBorder": "#D3AF86",
-    "badge.background": "#B58900AA",
+    "badge.background": "#b58900CC",
     "progressBar.background": "#B58900",
     "dropdown.background": "#EEE8D5",
     "dropdown.border": "#D3AF86",

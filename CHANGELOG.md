@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.1.9
+
+- Badge background updated
+
 ## 0.1.8
 
 - Activity bar active border for dark theme updated
