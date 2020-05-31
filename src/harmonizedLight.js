@@ -23,6 +23,10 @@ module.exports = {
     "pickerGroup.border": "#b58900CC",
     "pickerGroup.foreground": "#b58900CC",
     "selection.background": "#b5890059",
+    "editor.selectionBackground": "#B5890026",
+    "editor.selectionHighlightBackground": "#93a1a126",
+    "editor.findMatchBackground": "#CB4B1626",
+    "editor.findMatchHighlightBackground": "#85990026"
   },
   tokenColors: [
     // Use orange color for CSS ID Selector.

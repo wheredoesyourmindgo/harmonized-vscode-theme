@@ -720,7 +720,7 @@
     "editorCursor.foreground": "#DC322FCC",
     "editorWhitespace.foreground": "#586E7580",
     "editor.lineHighlightBackground": "#EEE8D5",
-    "editor.selectionBackground": "#EEE8D5",
+    "editor.selectionBackground": "#B5890026",
     "minimap.selectionHighlight": "#EEE8D5",
     "editorIndentGuide.background": "#586E7533",
     "editorIndentGuide.activeBackground": "#081E2540",
@@ -785,7 +785,10 @@
     "editorLineNumber.foreground": "#93a1a1",
     "terminal.foreground": "#657b83",
     "badge.foreground": "#fdf6e3",
-    "activityBar.activeBorder": "#b58900"
+    "activityBar.activeBorder": "#b58900",
+    "editor.selectionHighlightBackground": "#93a1a126",
+    "editor.findMatchBackground": "#CB4B1626",
+    "editor.findMatchHighlightBackground": "#85990026"
   },
   "semanticHighlighting": true
 }

@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.1.12
+
+- Changed selection backgrounds.
+
 ## 0.1.11
 
 - Increase transparency of selection background

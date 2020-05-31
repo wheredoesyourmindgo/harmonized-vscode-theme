@@ -725,14 +725,14 @@
     "editorWhitespace.foreground": "#93A1A180",
     "editor.lineHighlightBackground": "#073642",
     "editorLineNumber.activeForeground": "#93a1a1",
-    "editor.selectionBackground": "#274642",
+    "editor.selectionBackground": "#B5890033",
     "minimap.selectionHighlight": "#274642",
     "editorIndentGuide.background": "#93A1A133",
     "editorIndentGuide.activeBackground": "#C3E1E140",
     "editorHoverWidget.background": "#004052",
     "editorMarkerNavigationError.background": "#AB395B",
     "editorMarkerNavigationWarning.background": "#5B7E7A",
-    "editor.selectionHighlightBackground": "#005A6FAA",
+    "editor.selectionHighlightBackground": "#586e7533",
     "editor.wordHighlightBackground": "#004454AA",
     "editor.wordHighlightStrongBackground": "#005A6FAA",
     "peekViewResult.background": "#00212B",
@@ -789,7 +789,9 @@
     "editorLineNumber.foreground": "#586e75",
     "terminal.foreground": "#839496",
     "badge.foreground": "#fdf6e3",
-    "activityBar.activeBorder": "#268bd2"
+    "activityBar.activeBorder": "#268bd2",
+    "editor.findMatchBackground": "#CB4B1633",
+    "editor.findMatchHighlightBackground": "#85990033"
   },
   "semanticHighlighting": true
 }
