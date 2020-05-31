@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.1.13
+
+- Increase contrast of selection background for dark themes.
+
 ## 0.1.12
 
 - Changed selection backgrounds.
