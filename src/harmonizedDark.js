@@ -26,9 +26,18 @@ module.exports = {
     "editor.selectionBackground": "#B5890040",
     "editor.selectionHighlightBackground": "#586e7540",
     "editor.findMatchBackground": "#CB4B1640",
-    "editor.findMatchHighlightBackground": "#85990040"
+    "editor.findMatchHighlightBackground": "#85990040",
   },
   tokenColors: [
+    // Use violet to highlight character escaping
+    {
+      name: "ESCAPE-HIGHLIGHT",
+      scope: "string constant.character.escape.backslash",
+      settings: {
+        foreground: "#6c71c4",
+        fontStyle: "bold",
+      },
+    },
     // Use orange color for CSS ID Selector.
     {
       name: "CSS-ID-SELECTOR",

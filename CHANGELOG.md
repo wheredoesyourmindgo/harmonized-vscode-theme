@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.1.14
+
+- Highlight character escaping in strings.
+
 ## 0.1.13
 
 - Increase contrast of selection background for dark themes.

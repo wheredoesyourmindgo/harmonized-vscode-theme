@@ -297,6 +297,14 @@
       }
     },
     {
+      "name": "ESCAPE-HIGHLIGHT",
+      "scope": "string constant.character.escape.backslash",
+      "settings": {
+        "foreground": "#6c71c4",
+        "fontStyle": "bold"
+      }
+    },
+    {
       "name": "CSS-ID-SELECTOR",
       "scope": [
         "entity.other.attribute-name.id",
