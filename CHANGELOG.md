@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.1.16
+
+- Changed styling for TSDoc/JSDoc blocks (fix previous commit).
+
 ## 0.1.15
 
 - Changed styling for TSDoc/JSDoc blocks.

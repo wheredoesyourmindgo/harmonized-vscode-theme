@@ -628,7 +628,6 @@
         "keyword.other.fn.rust",
         "source.ocaml punctuation.definition.tag emphasis",
         "source.tf entity.name",
-        "comment.block.documentation variable.other",
         "source.hlsl storage.type.basic",
         "storage.modifier.lifetime.rust",
         "storage.type.built-in",
@@ -642,8 +641,7 @@
         "storage.type.php",
         "storage.type.function.kotlin",
         "source.nim storage.type.concrete",
-        "storage.type.integral",
-        "comment.block.documentation storage.type.class"
+        "storage.type.integral"
       ],
       "settings": {
         "fontStyle": "bold italic"

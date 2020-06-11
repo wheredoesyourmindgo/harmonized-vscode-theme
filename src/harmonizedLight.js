@@ -349,7 +349,7 @@ module.exports = {
         "keyword.other.fn.rust",
         "source.ocaml punctuation.definition.tag emphasis",
         "source.tf entity.name",
-        "comment.block.documentation variable.other",
+        // "comment.block.documentation variable.other",
         "source.hlsl storage.type.basic",
         "storage.modifier.lifetime.rust",
         "storage.type.core.rust",
@@ -364,7 +364,7 @@ module.exports = {
         "storage.type.function.kotlin",
         "source.nim storage.type.concrete",
         "storage.type.integral",
-        "comment.block.documentation storage.type.class",
+        // "comment.block.documentation storage.type.class",
       ],
       settings: {
         fontStyle: "bold italic",
