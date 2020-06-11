@@ -297,6 +297,29 @@
       }
     },
     {
+      "name": "COMMENT_BLOCK_EMPHASIS",
+      "scope": [
+        "comment.block.documentation storage.type.class",
+        "comment.block.documentation punctuation.definition.block.tag",
+        "comment.block.documentation punctuation.definition.inline.tag",
+        "comment.block.documentation variable.other"
+      ],
+      "settings": {
+        "foreground": "#657b83",
+        "fontStyle": ""
+      }
+    },
+    {
+      "name": "COMMENT_BLOCK_VAR",
+      "scope": [
+        "comment.block.documentation variable.other"
+      ],
+      "settings": {
+        "foreground": "#657b83",
+        "fontStyle": "bold italic"
+      }
+    },
+    {
       "name": "ESCAPE-HIGHLIGHT",
       "scope": "string constant.character.escape.backslash",
       "settings": {

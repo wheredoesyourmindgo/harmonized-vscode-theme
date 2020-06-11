@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.1.15
+
+- Changed styling for TSDoc/JSDoc blocks.
+
 ## 0.1.14
 
 - Highlight character escaping in strings.
