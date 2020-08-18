@@ -4,6 +4,17 @@
 
 Harmonized extends the distributed versions of the Solarized Themes from the VSCode repo. Harmonized doesn't differ from the stock Solarized themes too drastically but merely provides predictability and some consistency between the two themes.
 
+### Previews
+
+<div align="center" style="padding-top:16px;padding-bottom:32px;padding-left:32px;padding-right:32px;">
+<img src="https://github.com/wheredoesyourmindgo/harmonized/raw/master/images/light.png" alt="Light theme" width="700" />
+<div style="padding-top:16px;padding-bottom:16px;"></div>
+<img src="https://github.com/wheredoesyourmindgo/harmonized/raw/master/images/dark.png" alt="Dark theme" width="700" />
+
+</div>
+
+
+
 ### Font Styling Hints
 
 The Solarized Themes make use of **bold** font weights and in effect Harmonized does also. Your mileage will vary with bold fonts, and while bold fonts can be disabled there is alternative option. [Custom CSS And JS Loader](https://marketplace.visualstudio.com/items?itemName=be5invis.vscode-custom-css) can be used to target the weight used by bold fonts. If your font supports a medium or semi-bold variant you can specify the following in `vscodecustom.css`
