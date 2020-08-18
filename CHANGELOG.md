@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.1.17
+
+- Added screenshots.
+
 ## 0.1.16
 
 - Changed styling for TSDoc/JSDoc blocks (fix previous commit).
