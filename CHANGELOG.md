@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.1.19
+
+- *(TESTING)* High contrast theme changes.
+
 ## 0.1.18
 
 - *(TESTING)* High contrast theme variants added.
