@@ -33,7 +33,8 @@
     "theme",
     "solarized",
     "light",
-    "dark"
+    "dark",
+    "zen"
   ],
   "contributes": {
     "themes": [
@@ -56,6 +57,26 @@
         "label": "Harmonized dark _",
         "uiTheme": "vs-dark",
         "path": "./themes/dark_.json"
+      },
+      {
+        "label": "Harmonized light (hc)",
+        "uiTheme": "vs",
+        "path": "./themes/light-hc.json"
+      },
+      {
+        "label": "Harmonized dark (hc)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dark-hc.json"
+      },
+      {
+        "label": "Harmonized light (hc) _",
+        "uiTheme": "vs",
+        "path": "./themes/light-hc_.json"
+      },
+      {
+        "label": "Harmonized dark (hc) _",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dark-hc_.json"
       }
     ]
   },

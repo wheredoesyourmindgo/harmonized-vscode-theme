@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.1.18
+
+- *(TESTING)* High contrast theme variants added.
+
 ## 0.1.17
 
 - Added screenshots.

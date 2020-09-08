@@ -763,7 +763,7 @@
     "list.inactiveSelectionBackground": "#00445488",
     "list.dropBackground": "#00445488",
     "list.highlightForeground": "#1ebcc5",
-    "editor.background": "#002B36",
+    "editor.background": "#00151b",
     "editorWidget.background": "#00212B",
     "editorCursor.foreground": "#DC322FCC",
     "editorWhitespace.foreground": "#93A1A180",
