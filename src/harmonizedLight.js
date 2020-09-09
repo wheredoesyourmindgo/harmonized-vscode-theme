@@ -27,29 +27,30 @@ module.exports = {
     "editor.selectionHighlightBackground": "#93a1a126",
     "editor.findMatchBackground": "#CB4B1626",
     "editor.findMatchHighlightBackground": "#85990026",
+    "titleBar.activeBackground": "#eee8d5",
   },
   tokenColors: [
     /* TSDoc/JSDoc styling */
     {
-      "name": "COMMENT_BLOCK_EMPHASIS",
-      "scope": [
+      name: "COMMENT_BLOCK_EMPHASIS",
+      scope: [
         "comment.block.documentation storage.type.class",
         "comment.block.documentation punctuation.definition.block.tag",
         "comment.block.documentation punctuation.definition.inline.tag",
-        "comment.block.documentation variable.other"
+        "comment.block.documentation variable.other",
       ],
-      "settings": {
-        "foreground": "#839496", // base0
-        "fontStyle": ""
-      }
+      settings: {
+        foreground: "#839496", // base0
+        fontStyle: "",
+      },
     },
     {
-      "name": "COMMENT_BLOCK_VAR",
-      "scope": ["comment.block.documentation variable.other"],
-      "settings": {
-        "foreground": "#839496",
-        "fontStyle": "bold italic"
-      }
+      name: "COMMENT_BLOCK_VAR",
+      scope: ["comment.block.documentation variable.other"],
+      settings: {
+        foreground: "#839496",
+        fontStyle: "bold italic",
+      },
     },
     /* */
     // Use violet to highlight character escaping

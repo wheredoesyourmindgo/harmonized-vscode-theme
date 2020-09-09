@@ -784,7 +784,7 @@
     "peekViewTitle.background": "#00212B",
     "peekView.border": "#2b2b4a",
     "peekViewEditor.matchHighlightBackground": "#7744AA40",
-    "titleBar.activeBackground": "#002C39",
+    "titleBar.activeBackground": "#00212b",
     "editorGroup.border": "#00212B",
     "editorGroup.dropBackground": "#2AA19844",
     "editorGroupHeader.tabsBackground": "#004052",
