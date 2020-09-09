@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.1.21
+
+- Changes to high contrast theme variants.
+
 ## 0.1.20
 
 - Titlebar bg updated for dark themes.

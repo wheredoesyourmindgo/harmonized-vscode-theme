@@ -4,10 +4,7 @@ module.exports = {
     "tab.activeBackground": "#001920",
     "sideBar.background": "#001c24", // 15% darker
     "titleBar.activeBackground": "#001c24",
-    "debugExceptionWidget.background": "#001c24",
-    "debugToolBar.background": "#001c24",
     "dropdown.background": "#001c24",
-    "editorGroup.border": "#001c24",
     "editorWidget.background": "#001c24",
     "peekViewResult.background": "#001c24",
     "peekViewTitle.background": "#001c24",
@@ -15,7 +12,6 @@ module.exports = {
     "input.background": "#002c38",
     "statusBarItem.prominentBackground": "#002c38",
     "statusBarItem.prominentHoverBackground": "#002c38",
-    "tab.border": "#002c38",
   },
   tokenColors: [],
 };
