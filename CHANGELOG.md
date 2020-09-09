@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.1.22
+
+- Changes to inactive tab bg.
+
 ## 0.1.21
 
 - Changes to high contrast theme variants.

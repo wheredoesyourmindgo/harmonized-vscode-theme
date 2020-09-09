@@ -12,6 +12,9 @@ module.exports = {
     "input.background": "#e3decd",
     "statusBarItem.prominentBackground": "#e3decd",
     "statusBarItem.prominentHoverBackground": "#e3decd99",
+    "tab.inactiveBackground": "#ddd7c9", // 25% lighter
+    "editorGroupHeader.tabsBackground": "#ddd7c9",
+    "editorHoverWidget.background": "#ddd7c9",
   },
   tokenColors: [],
 };

@@ -28,6 +28,8 @@ module.exports = {
     "editor.findMatchBackground": "#CB4B1626",
     "editor.findMatchHighlightBackground": "#85990026",
     "titleBar.activeBackground": "#eee8d5",
+    "editorGroupHeader.tabsBackground": "#d3cbb7", // be consistent w/ dark theme
+    "editorHoverWidget.background":  "#d3cbb7", // be consistent w/ dark theme
   },
   tokenColors: [
     /* TSDoc/JSDoc styling */

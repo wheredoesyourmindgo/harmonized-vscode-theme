@@ -28,6 +28,8 @@ module.exports = {
     "editor.findMatchBackground": "#CB4B1640",
     "editor.findMatchHighlightBackground": "#85990040",
     "titleBar.activeBackground": "#00212b",
+    "editorGroupHeader.tabsBackground": "#004052", // Solarized default
+    "editorHoverWidget.background":  "#004052", // Solarized default
   },
   tokenColors: [
     /* TSDoc/JSDoc styling */
