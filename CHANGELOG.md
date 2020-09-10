@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.1.23
+
+- Previews added to README.
+
 ## 0.1.22
 
 - Changes to inactive tab bg.
