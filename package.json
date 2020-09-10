@@ -34,7 +34,8 @@
     "solarized",
     "light",
     "dark",
-    "zen"
+    "zen",
+    "contrast"
   ],
   "contributes": {
     "themes": [
