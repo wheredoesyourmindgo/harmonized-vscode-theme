@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.1.24
+
+- Theme rebuilt due to upstream changes.
+
 ## 0.1.23
 
 - Previews added to README.

@@ -793,6 +793,7 @@
     "tab.inactiveForeground": "#93A1A1",
     "tab.inactiveBackground": "#002f3d",
     "tab.border": "#003847",
+    "tab.lastPinnedBorder": "#2AA19844",
     "activityBar.background": "#002c38",
     "panel.border": "#2b2b4a",
     "sideBar.background": "#001c24",
