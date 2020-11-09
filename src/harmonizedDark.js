@@ -35,8 +35,8 @@ module.exports = {
   tokenColors: [
     /* General styling */
     {
-      name: "SOURCE",
-      scope: ["source"],
+      name: "SOURCE_AND_TEXT",
+      scope: ["source", "text"],
       settings: {
         foreground: "#93a1a1",
         fontStyle: "",

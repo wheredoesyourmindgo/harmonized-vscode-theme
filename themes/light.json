@@ -317,9 +317,10 @@
       }
     },
     {
-      "name": "SOURCE",
+      "name": "SOURCE_AND_TEXT",
       "scope": [
-        "source"
+        "source",
+        "text"
       ],
       "settings": {
         "foreground": "#586e75",

@@ -1,5 +1,10 @@
 # Changelog
 
+
+## 0.1.26
+
+- Set text color.
+
 ## 0.1.25
 
 - Reverted editor.foreground back to Solarized default. “Fixes #2”
