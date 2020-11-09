@@ -1,6 +1,7 @@
 module.exports = {
   colors: {
-    "editor.foreground": "#586e75",
+    // "editor.foreground": "#586e75",
+    "editor.foreground": "#333333",
     "list.hoverForeground": "#333333",
     "quickInput.foreground": "#657b83",
     "activityBar.foreground": "#333333",
@@ -31,7 +32,15 @@ module.exports = {
     "editorGroupHeader.tabsBackground": "#d3cbb7", // be consistent w/ dark theme
     "editorHoverWidget.background":  "#d3cbb7", // be consistent w/ dark theme
   },
-  tokenColors: [
+  tokenColors: [    /* General styling */
+    {
+      name: "SOURCE",
+      scope: ["source"],
+      settings: {
+        foreground: "#586e75",
+        fontStyle: "",
+      },
+    },
     /* TSDoc/JSDoc styling */
     {
       name: "COMMENT_BLOCK_EMPHASIS",

@@ -1,6 +1,7 @@
 module.exports = {
   colors: {
-    "editor.foreground": "#93a1a1",
+    // "editor.foreground": "#93a1a1",
+    "editor.foreground": "#bbbbbb",
     "list.hoverForeground": "#BBBBBB",
     "quickInput.foreground": "#839496",
     "activityBar.foreground": "#BBBBBB",
@@ -29,9 +30,18 @@ module.exports = {
     "editor.findMatchHighlightBackground": "#85990040",
     "titleBar.activeBackground": "#00212b",
     "editorGroupHeader.tabsBackground": "#004052", // Solarized default
-    "editorHoverWidget.background":  "#004052", // Solarized default
+    "editorHoverWidget.background": "#004052", // Solarized default
   },
   tokenColors: [
+    /* General styling */
+    {
+      name: "SOURCE",
+      scope: ["source"],
+      settings: {
+        foreground: "#93a1a1",
+        fontStyle: "",
+      },
+    },
     /* TSDoc/JSDoc styling */
     {
       name: "COMMENT_BLOCK_EMPHASIS",

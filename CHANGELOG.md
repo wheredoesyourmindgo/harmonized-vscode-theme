@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.1.25
+
+- Reverted editor.foreground back to Solarized default. “Fixes #2”
+- Inherit foreground from source scope.
+
 ## 0.1.24
 
 - Theme rebuilt due to upstream changes.

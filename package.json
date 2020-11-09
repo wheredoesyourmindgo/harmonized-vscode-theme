@@ -24,7 +24,7 @@
     "url": "https://github.com/wheredoesyourmindgo/harmonized-vscode-theme/issues"
   },
   "engines": {
-    "vscode": "^1.48.0"
+    "vscode": "^1.51.0"
   },
   "categories": [
     "Themes"

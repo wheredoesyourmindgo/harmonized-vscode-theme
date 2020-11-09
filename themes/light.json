@@ -216,7 +216,9 @@
     {
       "name": "Invalid",
       "scope": "invalid",
-      "settings": {}
+      "settings": {
+        "foreground": "#cd3131"
+      }
     },
     {
       "name": "diff: header",
@@ -312,6 +314,16 @@
       "settings": {
         "fontStyle": "",
         "foreground": "#268BD2"
+      }
+    },
+    {
+      "name": "SOURCE",
+      "scope": [
+        "source"
+      ],
+      "settings": {
+        "foreground": "#586e75",
+        "fontStyle": ""
       }
     },
     {
@@ -822,7 +834,7 @@
     "terminal.ansiBrightCyan": "#93a1a1",
     "terminal.ansiBrightWhite": "#eee8d5",
     "walkThrough.embeddedEditorBackground": "#00000014",
-    "editor.foreground": "#586e75",
+    "editor.foreground": "#333333",
     "list.hoverForeground": "#333333",
     "quickInput.foreground": "#657b83",
     "sideBar.foreground": "#657b83",
