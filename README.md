@@ -7,9 +7,9 @@ Harmonized extends the distributed versions of the Solarized Themes from the VSC
 ### Previews
 
 <div align="center" style="padding-top:16px;padding-bottom:32px;padding-left:32px;padding-right:32px;">
-<img src="https://github.com/wheredoesyourmindgo/harmonized-vscode-theme/raw/master/images/webp.jpg" alt="Light theme" width="700" />
+<img src="https://github.com/wheredoesyourmindgo/harmonized-vscode-theme/raw/master/images/light.webp" alt="Light theme" width="700" />
 <div style="padding-top:16px;padding-bottom:16px;"></div>
-<img src="https://github.com/wheredoesyourmindgo/harmonized-vscode-theme/raw/master/images/webp.jpg" alt="Dark theme" width="700" />
+<img src="https://github.com/wheredoesyourmindgo/harmonized-vscode-theme/raw/master/images/dark.webp" alt="Dark theme" width="700" />
 <div style="padding-top:8px;padding-bottom:8px;"></div>
 <h4>High Contrast + Accent Color variant</h4>
 <div style="padding-top:8px;padding-bottom:8px;"></div>
