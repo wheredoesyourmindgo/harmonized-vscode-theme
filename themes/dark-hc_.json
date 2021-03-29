@@ -771,7 +771,7 @@
     "dropdown.border": "#268bd2CC",
     "button.background": "#268bd2CC",
     "list.activeSelectionBackground": "#005A6F",
-    "quickInput.list.focusBackground": "#005A6F",
+    "quickInputList.focusBackground": "#005A6F",
     "list.hoverBackground": "#004454AA",
     "list.inactiveSelectionBackground": "#00445488",
     "list.dropBackground": "#00445488",
