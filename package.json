@@ -2,7 +2,7 @@
   "name": "harmonized-vscode-theme",
   "displayName": "Harmonized",
   "description": "Solarized in harmony",
-  "version": "0.1.28",
+  "version": "0.1.29",
   "scripts": {
     "release:major": "yarn build && vsce publish major && git push",
     "release:minor": "yarn build && vsce publish minor && git push",
@@ -82,9 +82,6 @@
     ]
   },
   "license": "MIT",
-  "__metadata": {
-    "publisherDisplayName": "wheredoesyourmindgo"
-  },
   "devDependencies": {
     "@types/vscode": "^1.48.0",
     "node-fetch": "^2.6.0",
