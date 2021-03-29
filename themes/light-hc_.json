@@ -846,6 +846,7 @@
     "editor.selectionHighlightBackground": "#93a1a126",
     "editor.findMatchBackground": "#CB4B1626",
     "editor.findMatchHighlightBackground": "#85990026",
+    "editorCursor.background": "#fdf6e3",
     "statusBar.debuggingForeground": "#ffffff",
     "statusBar.noFolderForeground": "#ffffff"
   },

@@ -31,6 +31,7 @@ module.exports = {
     "titleBar.activeBackground": "#00212b",
     "editorGroupHeader.tabsBackground": "#004052", // Solarized default
     "editorHoverWidget.background": "#004052", // Solarized default
+    "editorCursor.background": "#eee8d5" // base2
   },
   tokenColors: [
     /* General styling */

@@ -31,6 +31,7 @@ module.exports = {
     "titleBar.activeBackground": "#eee8d5",
     "editorGroupHeader.tabsBackground": "#d3cbb7", // be consistent w/ dark theme
     "editorHoverWidget.background":  "#d3cbb7", // be consistent w/ dark theme
+    "editorCursor.background": "#eee8d5" // base2
   },
   tokenColors: [    /* General styling */
     {
