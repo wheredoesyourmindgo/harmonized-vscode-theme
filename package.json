@@ -79,6 +79,9 @@
     ]
   },
   "license": "MIT",
+  "engines": {
+    "vscode": "^1.56.0"
+  },
   "devDependencies": {
     "@types/vscode": "^1.56.0",
     "node-fetch": "^2.6.0",
