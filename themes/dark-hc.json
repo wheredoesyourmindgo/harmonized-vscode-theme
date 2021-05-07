@@ -816,6 +816,7 @@
     "statusBar.debuggingBackground": "#00212B",
     "statusBar.noFolderBackground": "#00212B",
     "statusBarItem.remoteBackground": "#268bd2CC",
+    "ports.iconRunningProcessForeground": "#369432",
     "statusBarItem.prominentBackground": "#002c38",
     "statusBarItem.prominentHoverBackground": "#002c38",
     "debugToolBar.background": "#00212B",
