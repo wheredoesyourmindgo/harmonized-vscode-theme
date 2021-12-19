@@ -773,6 +773,7 @@
     "list.inactiveSelectionBackground": "#D1CBB8",
     "list.highlightForeground": "#B58900",
     "editor.background": "#fdf9ee",
+    "notebook.cellEditorBackground": "#F7F0E0",
     "editorWidget.background": "#f6f3ea",
     "editorCursor.foreground": "#DC322FCC",
     "editorWhitespace.foreground": "#586E7580",
