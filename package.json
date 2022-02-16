@@ -80,7 +80,7 @@
   },
   "license": "MIT",
   "engines": {
-    "vscode": "^1.56.0"
+    "vscode": "^1.88.0"
   },
   "devDependencies": {
     "@types/vscode": "^1.64.0",
