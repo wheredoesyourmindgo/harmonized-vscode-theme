@@ -4,9 +4,9 @@
   "description": "Solarized in harmony",
   "version": "0.2.1",
   "scripts": {
-    "release:major": "yarn build && vsce publish major && git push",
-    "release:minor": "yarn build && vsce publish minor && git push",
-    "release:patch": "yarn build && vsce publish patch && git push",
+    "release:major": "vsce publish major && git push",
+    "release:minor": "vsce publish minor && git push",
+    "release:patch": "vsce publish patch && git push",
     "build": "node src/index.js"
   },
   "preview": false,
