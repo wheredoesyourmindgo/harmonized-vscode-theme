@@ -30,10 +30,11 @@ module.exports = {
     "editor.findMatchHighlightBackground": "#85990026",
     "titleBar.activeBackground": "#eee8d5",
     "editorGroupHeader.tabsBackground": "#d3cbb7", // be consistent w/ dark theme
-    "editorHoverWidget.background":  "#d3cbb7", // be consistent w/ dark theme
-    "editorCursor.background": "#eee8d5" // base2
+    "editorHoverWidget.background": "#d3cbb7", // be consistent w/ dark theme
+    "editorCursor.background": "#eee8d5", // base2
   },
-  tokenColors: [    /* General styling */
+  tokenColors: [
+    /* General styling */
     {
       name: "SOURCE_AND_TEXT",
       scope: ["source", "text"],
@@ -62,6 +63,7 @@ module.exports = {
       settings: {
         foreground: "#839496",
         fontStyle: "bold italic",
+        fontWeight: 500,
       },
     },
     /* */
@@ -72,6 +74,7 @@ module.exports = {
       settings: {
         foreground: "#6c71c4",
         fontStyle: "bold",
+        fontWeight: 500,
       },
     },
     // Use orange color for CSS ID Selector.
@@ -343,6 +346,7 @@ module.exports = {
       ],
       settings: {
         fontStyle: "bold",
+        fontWeight: 500,
       },
     },
     {
@@ -381,6 +385,7 @@ module.exports = {
       ],
       settings: {
         fontStyle: "bold italic",
+        fontWeight: 500,
       },
     },
     {

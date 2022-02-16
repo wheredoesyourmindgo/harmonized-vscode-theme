@@ -66,7 +66,7 @@
       "scope": "storage",
       "settings": {
         "fontStyle": "bold",
-        "foreground": "#073642"
+        "foreground": "#586E75"
       }
     },
     {
@@ -293,6 +293,12 @@
       }
     },
     {
+      "scope": "markup.strikethrough",
+      "settings": {
+        "fontStyle": "strikethrough"
+      }
+    },
+    {
       "name": "Markup Inline",
       "scope": "markup.inline.raw",
       "settings": {
@@ -347,7 +353,8 @@
       ],
       "settings": {
         "foreground": "#839496",
-        "fontStyle": "bold italic"
+        "fontStyle": "bold italic",
+        "fontWeight": 500
       }
     },
     {
@@ -355,7 +362,8 @@
       "scope": "string constant.character.escape.backslash",
       "settings": {
         "foreground": "#6c71c4",
-        "fontStyle": "bold"
+        "fontStyle": "bold",
+        "fontWeight": 500
       }
     },
     {
@@ -639,7 +647,8 @@
         "storage"
       ],
       "settings": {
-        "fontStyle": "bold"
+        "fontStyle": "bold",
+        "fontWeight": 500
       }
     },
     {
@@ -675,7 +684,8 @@
         "storage.type.integral"
       ],
       "settings": {
-        "fontStyle": "bold italic"
+        "fontStyle": "bold italic",
+        "fontWeight": 500
       }
     },
     {
@@ -773,6 +783,7 @@
     "list.inactiveSelectionBackground": "#D1CBB8",
     "list.highlightForeground": "#B58900",
     "editor.background": "#fdf9ee",
+    "editor.foreground": "#333333",
     "notebook.cellEditorBackground": "#F7F0E0",
     "editorWidget.background": "#f6f3ea",
     "editorCursor.foreground": "#DC322FCC",
@@ -828,16 +839,15 @@
     "terminal.ansiMagenta": "#d33682",
     "terminal.ansiCyan": "#2aa198",
     "terminal.ansiWhite": "#eee8d5",
-    "terminal.ansiBrightBlack": "#586e75",
+    "terminal.ansiBrightBlack": "#002b36",
     "terminal.ansiBrightRed": "#cb4b16",
     "terminal.ansiBrightGreen": "#586e75",
     "terminal.ansiBrightYellow": "#657b83",
     "terminal.ansiBrightBlue": "#839496",
     "terminal.ansiBrightMagenta": "#6c71c4",
     "terminal.ansiBrightCyan": "#93a1a1",
-    "terminal.ansiBrightWhite": "#eee8d5",
+    "terminal.ansiBrightWhite": "#fdf6e3",
     "walkThrough.embeddedEditorBackground": "#00000014",
-    "editor.foreground": "#333333",
     "list.hoverForeground": "#333333",
     "quickInput.foreground": "#657b83",
     "sideBar.foreground": "#657b83",

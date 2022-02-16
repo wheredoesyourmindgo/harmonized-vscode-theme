@@ -31,7 +31,7 @@ module.exports = {
     "titleBar.activeBackground": "#00212b",
     "editorGroupHeader.tabsBackground": "#004052", // Solarized default
     "editorHoverWidget.background": "#004052", // Solarized default
-    "editorCursor.background": "#eee8d5" // base2
+    "editorCursor.background": "#eee8d5", // base2
   },
   tokenColors: [
     /* General styling */
@@ -63,6 +63,7 @@ module.exports = {
       settings: {
         foreground: "#657b83",
         fontStyle: "bold italic",
+        fontWeight: 500,
       },
     },
     /* */
@@ -73,6 +74,7 @@ module.exports = {
       settings: {
         foreground: "#6c71c4",
         fontStyle: "bold",
+        fontWeight: 500,
       },
     },
     // Use orange color for CSS ID Selector.
@@ -344,6 +346,7 @@ module.exports = {
       ],
       settings: {
         fontStyle: "bold",
+        fontWeight: 500,
       },
     },
     {
@@ -382,6 +385,7 @@ module.exports = {
       ],
       settings: {
         fontStyle: "bold italic",
+        fontWeight: 500,
       },
     },
     {
