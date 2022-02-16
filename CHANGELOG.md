@@ -1,6 +1,8 @@
 # Changelog
 
+## 3.0.0
 
+- Use `font-weight: 500;` with bold fonts.
 ## 0.1.26
 
 - Set text color.
