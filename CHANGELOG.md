@@ -1,5 +1,8 @@
 # Changelog
 
+## 0.4.0
+
+- Updated bold & italic tokens.
 ## 0.3.0
 
 - Use `font-weight: 500;` with bold fonts.
