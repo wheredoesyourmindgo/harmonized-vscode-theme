@@ -1,5 +1,5 @@
 # Changelog
-## 0.5.1
+## 0.5.2
 
 - Updated Readme and screenshots.
 ## 0.4.0
