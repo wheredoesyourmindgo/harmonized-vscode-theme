@@ -22,7 +22,8 @@ module.exports = {
     focusBorder: "#b58900CC",
     "inputOption.activeBorder": "#b58900CC",
     "button.background": "#b58900CC",
-    "statusBarItem.remoteBackground": "#b58900CC",
+    // don't highlight remote repo in alternate (yellow) color
+    // "statusBarItem.remoteBackground": "#b58900CC",
     "pickerGroup.border": "#b58900CC",
     "pickerGroup.foreground": "#b58900CC",
     "selection.background": "#b5890059",

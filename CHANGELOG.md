@@ -1,4 +1,7 @@
 # Changelog
+## 0.5.3
+
+- Don't highlight 'Open in remote window' button in status bar with alternate color
 ## 0.5.2
 
 - Updated Readme and screenshots.

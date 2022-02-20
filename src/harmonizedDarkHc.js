@@ -14,7 +14,7 @@ module.exports = {
     "statusBarItem.prominentHoverBackground": "#002c38",
     "tab.inactiveBackground": "#002f3d", // 25% darker
     "editorGroupHeader.tabsBackground": "#002f3d",
-    "editorHoverWidget.background": "#002f3d"
+    "editorHoverWidget.background": "#002f3d",
   },
   tokenColors: [],
 };

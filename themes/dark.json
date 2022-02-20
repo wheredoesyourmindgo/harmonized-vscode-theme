@@ -839,7 +839,7 @@
     "statusBar.background": "#00212B",
     "statusBar.debuggingBackground": "#00212B",
     "statusBar.noFolderBackground": "#00212B",
-    "statusBarItem.remoteBackground": "#268bd2CC",
+    "statusBarItem.remoteBackground": "#00212B",
     "ports.iconRunningProcessForeground": "#369432",
     "statusBarItem.prominentBackground": "#003847",
     "statusBarItem.prominentHoverBackground": "#003847",
