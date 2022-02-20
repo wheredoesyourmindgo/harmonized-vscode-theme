@@ -1,5 +1,7 @@
+
 import useSWR from "swr";
 
+// Wowee Zowee
 export default function Profile() {
   const { data, error } = useSWR("/api/user", fetcher);
 

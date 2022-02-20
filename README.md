@@ -17,8 +17,12 @@ Harmonized extends the distributed versions of the Solarized Themes from the VSC
   <img src="https://github.com/wheredoesyourmindgo/harmonized-vscode-theme/raw/master/images/light_hc.png" alt="Light theme - High Contrast with accent color" width="700" />
   <div style="padding-top:16px;padding-bottom:16px;"></div>
   <img src="https://github.com/wheredoesyourmindgo/harmonized-vscode-theme/raw/master/images/dark_hc.png" alt="Dark theme - High Contrast with accent color" width="700" />
+  <div style="padding-top:8px;padding-bottom:8px;"></div>
+  <h4>Accented Variants</h4>
+  <div style="padding-top:8px;padding-bottom:8px;"></div>
+  <img src="https://github.com/wheredoesyourmindgo/harmonized-vscode-theme/raw/master/images/light_accent.png" alt="Light theme - High Contrast with accent color" width="700" />
+  <div style="padding-top:16px;padding-bottom:16px;"></div>
+  <img src="https://github.com/wheredoesyourmindgo/harmonized-vscode-theme/raw/master/images/dark_accent.png" alt="Dark theme - High Contrast with accent color" width="700" />
 </div>
 
-### Attribution
 
-Icon template provided via Freepik <a href="https://www.freepik.com/free-photos-vectors/technology">Technology vector created by studiogstock - www.freepik.com</a>
