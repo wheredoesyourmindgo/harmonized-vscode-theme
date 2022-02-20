@@ -2,7 +2,7 @@
    <img width="500" src="https://raw.githubusercontent.com/wheredoesyourmindgo/harmonized-vscode-theme/master/images/brand.png" />
 </p>
 
-Harmonized extends the distributed versions of the Solarized Themes from the VSCode repo. Harmonized doesn't differ from the stock Solarized themes too drastically but merely provides predictability and some consistency between the two themes. This theme includes high contrast alternative themes that can be used with smaller/dimmer displays.
+Harmonized extends the distributed versions of the Solarized Themes from the VSCode repo. Harmonized doesn't differ from the stock Solarized themes too drastically but merely provides predictability and some consistency between the two themes. This theme includes high contrast alternative themes that can be used with smaller/dimmer displays or in highly contrasted lighting conditions. Also included are accented variants that add some pizzazz to the status bar.
 
 ### Previews
 

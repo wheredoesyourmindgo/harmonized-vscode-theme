@@ -1,5 +1,8 @@
 # Changelog
 
+## 0.5.6
+
+- Updated readme.
 ## 0.5.5
 
 - Updated screenshots.
