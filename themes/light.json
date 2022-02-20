@@ -868,7 +868,8 @@
     "editor.selectionHighlightBackground": "#93a1a126",
     "editor.findMatchBackground": "#CB4B1626",
     "editor.findMatchHighlightBackground": "#85990026",
-    "editorCursor.background": "#eee8d5"
+    "editorCursor.background": "#eee8d5",
+    "statusBarItem.remoteForeground": "#586E75"
   },
   "semanticHighlighting": true
 }

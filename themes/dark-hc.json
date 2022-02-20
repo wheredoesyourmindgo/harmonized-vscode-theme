@@ -874,7 +874,8 @@
     "activityBar.activeBorder": "#268bd2",
     "editor.findMatchBackground": "#CB4B1640",
     "editor.findMatchHighlightBackground": "#85990040",
-    "editorCursor.background": "#eee8d5"
+    "editorCursor.background": "#eee8d5",
+    "statusBarItem.remoteForeground": "#93A1A1"
   },
   "semanticHighlighting": true
 }

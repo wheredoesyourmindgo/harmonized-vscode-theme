@@ -14,6 +14,7 @@ const commonAccentColors = {
   "statusBar.foreground": "#ffffff",
   "statusBar.debuggingForeground": "#ffffff",
   "statusBar.noFolderForeground": "#ffffff",
+  "statusBarItem.remoteForeground": "#ffffff",
 };
 
 // Light
@@ -34,6 +35,8 @@ getTheme({
         // default "open in remote window" button background to status bar background
         "statusBarItem.remoteBackground":
           solarizedLight.colors["statusBar.background"],
+        "statusBarItem.remoteForeground":
+          solarizedLight.colors["statusBar.foreground"],
       },
     };
     const theme_ = {
@@ -70,6 +73,8 @@ getTheme({
         ...harmonizedLightHc.colors,
         "statusBarItem.remoteBackground":
           solarizedLight.colors["statusBar.background"],
+        "statusBarItem.remoteForeground":
+          solarizedLight.colors["statusBar.foreground"],
       },
     };
     const theme_ = {
@@ -108,6 +113,8 @@ getTheme({
         ...harmonizedDark.colors,
         "statusBarItem.remoteBackground":
           solarizedDark.colors["statusBar.background"],
+        "statusBarItem.remoteForeground":
+          solarizedDark.colors["statusBar.foreground"],
       },
     };
     const theme_ = {
@@ -144,6 +151,8 @@ getTheme({
         ...harmonizedDarkHc.colors,
         "statusBarItem.remoteBackground":
           solarizedDark.colors["statusBar.background"],
+        "statusBarItem.remoteForeground":
+          solarizedDark.colors["statusBar.foreground"],
       },
     };
     const theme_ = {

@@ -875,6 +875,7 @@
     "editor.findMatchBackground": "#CB4B1640",
     "editor.findMatchHighlightBackground": "#85990040",
     "editorCursor.background": "#eee8d5",
+    "statusBarItem.remoteForeground": "#ffffff",
     "statusBar.debuggingForeground": "#ffffff",
     "statusBar.noFolderForeground": "#ffffff"
   },

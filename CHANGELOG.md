@@ -1,4 +1,8 @@
 # Changelog
+
+## 0.5.4
+
+- Fix 'Open in remote window' foreground
 ## 0.5.3
 
 - Don't highlight 'Open in remote window' button in status bar with alternate color
