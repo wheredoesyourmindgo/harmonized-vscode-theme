@@ -1,5 +1,7 @@
 # Changelog
+## 0.5.1
 
+- Updated Readme and screenshots.
 ## 0.4.0
 
 - Updated bold & italic tokens.
