@@ -121,12 +121,23 @@ module.exports = {
       name: "USE-SOLARIZED-RED",
       scope: [
         "string.regexp",
+        // "punctuation.section.embedded.begin",
+        // "punctuation.section.embedded.end",
+        // "punctuation.separator.continuation",
+      ],
+      settings: {
+        foreground: "#DC322F",
+      },
+    },
+    {
+      name: "USE-SOLARIZED-ORANGE",
+      scope: [
         "punctuation.section.embedded.begin",
         "punctuation.section.embedded.end",
         "punctuation.separator.continuation",
       ],
       settings: {
-        foreground: "#DC322F",
+        foreground: "#CB4B16",
       },
     },
     {
