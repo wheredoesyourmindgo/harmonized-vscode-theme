@@ -2,6 +2,10 @@
 
 ## 0.5.8
 
+- Version bumped.
+
+## 0.5.8
+
 - Fix inlay colors.
 
 ## 0.5.7
