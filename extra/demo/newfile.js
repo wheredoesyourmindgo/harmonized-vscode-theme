@@ -1,0 +1,4 @@
+enum MyValue {
+  A,
+  B,
+}

@@ -35,6 +35,13 @@ module.exports = {
     "editorGroupHeader.tabsBackground": "#d3cbb7", // be consistent w/ dark theme
     "editorHoverWidget.background": "#d3cbb7", // be consistent w/ dark theme
     "editorCursor.background": "#eee8d5", // base2
+    // need to be explicit about the following since they are not getting set in solarized
+    "editorInlayHint.background": "#b5890033",
+    "editorInlayHint.foreground": "#333333cc",
+    "editorInlayHint.parameterBackground": "#b5890033",
+    "editorInlayHint.parameterForeground": "#333333cc",
+    "editorInlayHint.typeBackground": "#b5890033",
+    "editorInlayHint.typeForeground": "#333333cc",
   },
   tokenColors: [
     /* General styling */
@@ -66,7 +73,7 @@ module.exports = {
       settings: {
         foreground: "#839496",
         fontStyle: "bold italic",
-        fontWeight: 500,
+        // fontWeight: 500,
       },
     },
     /* */
@@ -77,7 +84,7 @@ module.exports = {
       settings: {
         foreground: "#6c71c4",
         fontStyle: "bold",
-        fontWeight: 500,
+        // fontWeight: 500,
       },
     },
     // Use orange color for CSS ID Selector.

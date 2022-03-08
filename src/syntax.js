@@ -162,7 +162,7 @@ module.exports = {
     ],
     settings: {
       fontStyle: "bold",
-      fontWeight: 500,
+      // fontWeight: 500,
     },
   },
   boldItalic: {
@@ -188,7 +188,7 @@ module.exports = {
     ],
     settings: {
       fontStyle: "bold italic",
-      fontWeight: 500,
+      // fontWeight: 500,
     },
   },
   normal: {

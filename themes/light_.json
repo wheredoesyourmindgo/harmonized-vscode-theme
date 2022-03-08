@@ -353,8 +353,7 @@
       ],
       "settings": {
         "foreground": "#839496",
-        "fontStyle": "bold italic",
-        "fontWeight": 500
+        "fontStyle": "bold italic"
       }
     },
     {
@@ -362,8 +361,7 @@
       "scope": "string constant.character.escape.backslash",
       "settings": {
         "foreground": "#6c71c4",
-        "fontStyle": "bold",
-        "fontWeight": 500
+        "fontStyle": "bold"
       }
     },
     {
@@ -680,8 +678,7 @@
         "markup.list punctuation.definition"
       ],
       "settings": {
-        "fontStyle": "bold",
-        "fontWeight": 500
+        "fontStyle": "bold"
       }
     },
     {
@@ -706,8 +703,7 @@
         "fenced_code.block.language"
       ],
       "settings": {
-        "fontStyle": "bold italic",
-        "fontWeight": 500
+        "fontStyle": "bold italic"
       }
     },
     {
@@ -877,6 +873,12 @@
     "editor.findMatchBackground": "#CB4B1626",
     "editor.findMatchHighlightBackground": "#85990026",
     "editorCursor.background": "#eee8d5",
+    "editorInlayHint.background": "#b5890033",
+    "editorInlayHint.foreground": "#333333cc",
+    "editorInlayHint.parameterBackground": "#b5890033",
+    "editorInlayHint.parameterForeground": "#333333cc",
+    "editorInlayHint.typeBackground": "#b5890033",
+    "editorInlayHint.typeForeground": "#333333cc",
     "statusBarItem.remoteForeground": "#ffffff",
     "statusBar.debuggingForeground": "#ffffff",
     "statusBar.noFolderForeground": "#ffffff"

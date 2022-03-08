@@ -1,4 +1,9 @@
 # Changelog
+
+## 0.5.8
+
+- Fix inlay colors.
+
 ## 0.5.7
 
 - Use Orange over Red with beginning and end curly braces so that numbers (Magenta) are easier to read when whitespace is not present between characters.
