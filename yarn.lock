@@ -2,10 +2,10 @@
 # yarn lockfile v1
 
 
-"@types/vscode@^1.64.0":
-  version "1.64.0"
-  resolved "https://registry.yarnpkg.com/@types/vscode/-/vscode-1.64.0.tgz#bfd82c8d92dc7824c1be084be1ab46ce20d7fb55"
-  integrity sha512-bSlAWz5WtcSL3cO9tAT/KpEH9rv5OBnm93OIIFwdCshaAiqr2bp1AUyEwW9MWeCvZBHEXc3V0fTYVdVyzDNwHA==
+"@types/vscode@^1.82.0":
+  version "1.82.0"
+  resolved "https://registry.yarnpkg.com/@types/vscode/-/vscode-1.82.0.tgz#89b0b21179dcf5e8cee1664a9a05c5f6c60d38d0"
+  integrity sha512-VSHV+VnpF8DEm8LNrn8OJ8VuUNcBzN3tMvKrNpbhhfuVjFm82+6v44AbDhLvVFgCzn6vs94EJNTp7w8S6+Q1Rw==
 
 ansi-regex@^2.0.0:
   version "2.1.1"
@@ -906,10 +906,10 @@ util-deprecate@^1.0.1, util-deprecate@~1.0.1:
   resolved "https://registry.yarnpkg.com/util-deprecate/-/util-deprecate-1.0.2.tgz#450d4dc9fa70de732762fbd2d4a28981419a0ccf"
   integrity sha1-RQ1Nyfpw3nMnYvvS1KKJgUGaDM8=
 
-vsce@^2.6.7:
-  version "2.6.7"
-  resolved "https://registry.yarnpkg.com/vsce/-/vsce-2.6.7.tgz#e590ff957d07910c471334857627c3e7f57e87bc"
-  integrity sha512-5dEtdi/yzWQbOU7JDUSOs8lmSzzkewBR5P122BUkmXE6A/DEdFsKNsg2773NGXJTwwF1MfsOgUR6QVF3cLLJNQ==
+vsce@^2.15.0:
+  version "2.15.0"
+  resolved "https://registry.yarnpkg.com/vsce/-/vsce-2.15.0.tgz#4a992e78532092a34a755143c6b6c2cabcb7d729"
+  integrity sha512-P8E9LAZvBCQnoGoizw65JfGvyMqNGlHdlUXD1VAuxtvYAaHBKLBdKPnpy60XKVDAkQCfmMu53g+gq9FM+ydepw==
   dependencies:
     azure-devops-node-api "^11.0.1"
     chalk "^2.4.2"
