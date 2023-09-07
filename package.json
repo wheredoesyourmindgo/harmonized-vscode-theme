@@ -2,7 +2,7 @@
   "name": "harmonized-vscode-theme",
   "displayName": "Harmonized",
   "description": "Solarized in harmony",
-  "version": "0.5.14",
+  "version": "0.5.15",
   "scripts": {
     "release:major": "vsce publish major && git push",
     "release:minor": "vsce publish minor && git push",
