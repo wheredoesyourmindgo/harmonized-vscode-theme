@@ -1,6 +1,6 @@
-const syntax = require("./syntax");
+import syntax from "./syntax.js";
 
-module.exports = {
+const harmonizedDark = {
   colors: {
     // "editor.foreground": "#93a1a1",
     "editor.foreground": "#bbbbbb",
@@ -235,3 +235,5 @@ module.exports = {
     syntax.normal,
   ],
 };
+
+export default harmonizedDark

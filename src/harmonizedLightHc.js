@@ -1,4 +1,4 @@
-module.exports = {
+const harmonizedLightHc = {
   colors: {
     "editor.background": "#fdf9ee", // 40% lighter
     "tab.activeBackground": "#fdf9ee",
@@ -18,3 +18,5 @@ module.exports = {
   },
   tokenColors: [],
 };
+
+export default harmonizedLightHc;

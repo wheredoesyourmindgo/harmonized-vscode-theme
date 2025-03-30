@@ -1,4 +1,4 @@
-module.exports = {
+const syntax = {
   italic: {
     name: "ITALIC",
     scope: [
@@ -263,3 +263,5 @@ module.exports = {
     },
   },
 };
+
+export default syntax;

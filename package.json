@@ -1,6 +1,7 @@
 {
   "name": "harmonized-vscode-theme",
   "displayName": "Harmonized",
+  "type": "module",
   "description": "Solarized in harmony",
   "version": "0.5.16",
   "scripts": {
@@ -83,9 +84,10 @@
     "vscode": "^1.82.0"
   },
   "devDependencies": {
-    "@types/vscode": "1.82.0",
-    "node-fetch": "^2.6.7",
-    "strip-json-comments": "^3.1.1",
+    "@types/vscode": "1.98.0",
+    "json5": "^2.2.3",
+    "node-fetch": "3.3.2",
     "vsce": "^2.15.0"
-  }
+  },
+  "packageManager": "yarn@4.8.1"
 }

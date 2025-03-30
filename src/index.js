@@ -1,9 +1,9 @@
-const fs = require("fs");
-const getTheme = require("./theme");
-const harmonizedDark = require("./harmonizedDark");
-const harmonizedDarkHc = require("./harmonizedDarkHc");
-const harmonizedLight = require("./harmonizedLight");
-const harmonizedLightHc = require("./harmonizedLightHc");
+import fs from "node:fs";
+import getTheme from "./theme.js";
+import harmonizedDark from "./harmonizedDark.js";
+import harmonizedDarkHc from "./harmonizedDarkHc.js";
+import harmonizedLight from "./harmonizedLight.js";
+import harmonizedLightHc from "./harmonizedLightHc.js";
 
 const solarizedDarkUrl =
   "https://api.github.com/repos/microsoft/vscode/contents/extensions/theme-solarized-dark/themes/solarized-dark-color-theme.json";

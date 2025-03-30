@@ -140,7 +140,10 @@
     },
     {
       "name": "Inherited class",
-      "scope": "entity.other.inherited-class",
+      "scope": [
+        "entity.other.inherited-class",
+        "punctuation.separator.namespace.ruby"
+      ],
       "settings": {
         "foreground": "#6C71C4"
       }
@@ -437,7 +440,7 @@
         "source.jsx meta.definition.variable variable.other",
         "source.ts meta.definition.variable variable.other",
         "source.tsx meta.definition.variable variable.other",
-        "source.java meta.definition.variable variable.other"
+        "source.java meta.definition.variable.other"
       ],
       "settings": {
         "foreground": "#268BD2"

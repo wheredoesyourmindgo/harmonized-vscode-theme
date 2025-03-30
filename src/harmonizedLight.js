@@ -1,6 +1,6 @@
-const syntax = require("./syntax");
+import syntax from "./syntax.js";
 
-module.exports = {
+const harmonizedLight = {
   colors: {
     // "editor.foreground": "#586e75",
     "editor.foreground": "#333333",
@@ -160,7 +160,7 @@ module.exports = {
         "source.jsx meta.definition.variable variable.other",
         "source.ts meta.definition.variable variable.other",
         "source.tsx meta.definition.variable variable.other",
-        "source.java meta.definition.variable variable.other",
+        "source.java meta.definition.variable.other",
       ],
       settings: {
         foreground: "#268BD2",
@@ -235,3 +235,5 @@ module.exports = {
     syntax.normal,
   ],
 };
+
+export default harmonizedLight;

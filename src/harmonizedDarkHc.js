@@ -1,4 +1,4 @@
-module.exports = {
+const harmonizedDarkHc = {
   colors: {
     "editor.background": "#001920", // 40% darker
     "tab.activeBackground": "#001920",
@@ -18,3 +18,5 @@ module.exports = {
   },
   tokenColors: [],
 };
+
+export default harmonizedDarkHc
