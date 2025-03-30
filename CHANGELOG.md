@@ -1,6 +1,6 @@
 # Changelog
 
-## 0.6.0
+## 0.8.1
 
 - Use ESM syntax.
 
