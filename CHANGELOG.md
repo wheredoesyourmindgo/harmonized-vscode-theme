@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.6.0
+
+- Use ESM syntax.
+
 ## 0.5.10
 
 - Version bumped.
