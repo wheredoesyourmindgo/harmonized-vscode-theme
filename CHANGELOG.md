@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.8.2
+
+- Update yarn.lock.
+
 ## 0.8.1
 
 - Use ESM syntax.
