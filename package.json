@@ -81,7 +81,7 @@
   },
   "license": "MIT",
   "engines": {
-    "vscode": "^1.98.0"
+    "vscode": "^1.100.0"
   },
   "devDependencies": {
     "@types/vscode": "1.100.0",
