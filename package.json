@@ -84,12 +84,12 @@
     "vscode": "^1.100.0"
   },
   "devDependencies": {
-    "@types/vscode": "1.100.0",
+    "@types/vscode": "1.104.0",
     "json5": "^2.2.3",
     "node-fetch": "3.3.2",
     "vsce": "^2.15.0"
   },
-  "packageManager": "yarn@4.9.2",
+  "packageManager": "yarn@4.10.3",
   "vsce": {
     "dependencies": false
   }
