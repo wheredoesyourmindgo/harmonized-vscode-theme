@@ -3,7 +3,7 @@
   "displayName": "Harmonized",
   "type": "module",
   "description": "Solarized in harmony",
-  "version": "0.8.4",
+  "version": "0.8.5",
   "scripts": {
     "release:major": "vsce publish major && git push",
     "release:minor": "vsce publish minor && git push",
