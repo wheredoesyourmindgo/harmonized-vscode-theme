@@ -86,9 +86,7 @@
   "devDependencies": {
     "@types/vscode": "1.106.1",
     "json5": "^2.2.3",
-    "node-fetch": "3.3.2",
-    "vsce": "^2.15.0",
-    "xml2js": "^0.5.0"
+    "node-fetch": "3.3.2"
   },
   "packageManager": "yarn@4.10.3",
   "vsce": {

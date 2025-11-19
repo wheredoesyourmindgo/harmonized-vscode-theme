@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.8.7
+
+- Fix GitHub security by removing dependencies
+
 ## 0.8.5
 
 - Fix GitHub security for xmljs dev dependency
