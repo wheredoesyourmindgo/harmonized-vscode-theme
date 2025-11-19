@@ -81,10 +81,10 @@
   },
   "license": "MIT",
   "engines": {
-    "vscode": "^1.104.0"
+    "vscode": "^1.106.0"
   },
   "devDependencies": {
-    "@types/vscode": "1.104.0",
+    "@types/vscode": "1.106.1",
     "json5": "^2.2.3",
     "node-fetch": "3.3.2",
     "vsce": "^2.15.0"

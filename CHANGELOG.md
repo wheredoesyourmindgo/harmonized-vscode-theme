@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.8.4
+
+- Rebuild yarn.lock
+
 ## 0.8.3
 
 - Rebuild yarn.lock
