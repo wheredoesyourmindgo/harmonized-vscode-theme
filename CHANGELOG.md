@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.8.5
+
+- Fix GitHub security for xmljs dev dependency
+
 ## 0.8.4
 
 - Rebuild yarn.lock
