@@ -1,5 +1,5 @@
 {
-  "name": "Harmonized light",
+  "name": "Harmonized light _",
   "tokenColors": [
     {
       "settings": {
@@ -785,6 +785,10 @@
   ],
   "colors": {
     "focusBorder": "#b58900CC",
+    "agentsPanel.border": "#DDD6C1",
+    "agentsChatInput.border": "#DDD6C1",
+    "agentsChatInput.focusBorder": "#b49471",
+    "agentsNewSessionButton.border": "#DDD6C1",
     "input.background": "#DDD6C1",
     "input.foreground": "#586E75",
     "input.placeholderForeground": "#586E75AA",
@@ -820,6 +824,7 @@
     "peekView.border": "#B58900",
     "peekViewEditor.matchHighlightBackground": "#7744AA40",
     "titleBar.activeBackground": "#eee8d5",
+    "titleBar.inactiveBackground": "#F0ECE1",
     "editorGroup.border": "#DDD6C1",
     "editorGroup.dropBackground": "#DDD6C1AA",
     "editorGroupHeader.tabsBackground": "#d3cbb7",
@@ -833,10 +838,14 @@
     "activityBar.foreground": "#586e75",
     "activityBarBadge.background": "#B58900",
     "panel.border": "#DDD6C1",
+    "panelSection.border": "#DDD6C1",
+    "panelSectionHeader.border": "#DDD6C1",
     "sideBar.background": "#EEE8D5",
     "sideBarTitle.foreground": "#586E75",
+    "sideBarSectionHeader.border": "#DDD6C1",
     "statusBar.foreground": "#ffffff",
     "statusBar.background": "#268BD2",
+    "statusBar.inactiveBackground": "#F0ECE1",
     "statusBar.debuggingBackground": "#859900",
     "statusBar.noFolderBackground": "#93a1a1",
     "statusBarItem.remoteBackground": "#268BD2",
@@ -868,6 +877,9 @@
     "terminal.ansiBrightWhite": "#fdf6e3",
     "terminal.background": "#FDF6E3",
     "walkThrough.embeddedEditorBackground": "#00000014",
+    "surface.border": "#ddd6c1",
+    "modernActivityBarItem.activeBackground": "#DFCA88",
+    "modernActivityBar.background": "#EEE8D5",
     "list.hoverForeground": "#333333",
     "quickInput.foreground": "#657b83",
     "sideBar.foreground": "#657b83",
