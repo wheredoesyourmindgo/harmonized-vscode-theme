@@ -5,10 +5,11 @@
   "description": "Solarized in harmony",
   "version": "0.8.7",
   "scripts": {
-    "release:major": "vsce publish major && git push",
-    "release:minor": "vsce publish minor && git push",
-    "release:patch": "vsce publish patch && git push",
-    "build": "node src/index.js"
+    "release:major": "npx @vscode/vsce publish major && git push --follow-tags",
+    "release:minor": "npx @vscode/vsce publish minor && git push --follow-tags",
+    "release:patch": "npx @vscode/vsce publish patch && git push --follow-tags",
+    "build": "node src/index.js && node src/check.js",
+    "update-solarized": "node src/update-solarized.js"
   },
   "preview": false,
   "publisher": "wheredoesyourmindgo",
@@ -85,10 +86,8 @@
   },
   "devDependencies": {
     "@types/vscode": "1.106.1",
-    "json5": "^2.2.3",
-    "node-fetch": "3.3.2"
+    "json5": "^2.2.3"
   },
-  "packageManager": "yarn@4.10.3",
   "vsce": {
     "dependencies": false
   }

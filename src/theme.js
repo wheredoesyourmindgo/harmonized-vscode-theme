@@ -1,14 +1,11 @@
-import fetch from "node-fetch";
+import fs from "node:fs";
 import JSON5 from "json5";
 
-async function getTheme({ name, url }) {
-  const response = await fetch(url);
-  const data = await response.json();
-  const jsonBuffer = Buffer.from(data.content, "base64");
-  const jsonStr = jsonBuffer.toString();
-  const strippedJson = JSON5.parse(jsonStr);
+// Reads a pinned copy of a VS Code Solarized theme (see update-solarized.js). The files are JSONC.
+function getTheme({ name, variant }) {
+  const source = fs.readFileSync(`./src/solarized/solarized-${variant}.json`, "utf8");
   return {
-    ...strippedJson,
+    ...JSON5.parse(source),
     name,
   };
 }

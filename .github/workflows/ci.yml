@@ -1,0 +1,22 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-node@v7
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      # Builds from the pinned Solarized copies in src/solarized/, then runs src/check.js
+      - run: npm run build
+      # Fail if the committed themes don't match what the build generates
+      - name: Check generated themes are up to date
+        run: git diff --exit-code -- themes

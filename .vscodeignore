@@ -6,3 +6,5 @@ extra/**
 .gitignore
 .markdownlintrc
 src/**
+.github/**
+package-lock.json
