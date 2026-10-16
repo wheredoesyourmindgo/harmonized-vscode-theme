@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+  <!-- Italic H on Solarized Dark base03, with the eight Solarized accents beneath. Rendered with Helvetica Neue Bold Italic (macOS). -->
+  <rect width="128" height="128" rx="28" fill="#002b36"/>
+  <text x="64" y="86" font-family="Helvetica Neue, Arial, sans-serif" font-size="78" font-weight="700" font-style="italic" text-anchor="middle" fill="#eee8d5">H</text>
+  <rect x="26.0" y="98" width="8" height="6" rx="2" fill="#b58900"/>
+  <rect x="35.5" y="98" width="8" height="6" rx="2" fill="#cb4b16"/>
+  <rect x="45.0" y="98" width="8" height="6" rx="2" fill="#dc322f"/>
+  <rect x="54.5" y="98" width="8" height="6" rx="2" fill="#d33682"/>
+  <rect x="64.0" y="98" width="8" height="6" rx="2" fill="#6c71c4"/>
+  <rect x="73.5" y="98" width="8" height="6" rx="2" fill="#268bd2"/>
+  <rect x="83.0" y="98" width="8" height="6" rx="2" fill="#2aa198"/>
+  <rect x="92.5" y="98" width="8" height="6" rx="2" fill="#859900"/>
+</svg>

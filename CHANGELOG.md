@@ -1,5 +1,12 @@
 # Changelog
 
+## 0.9.0
+
+- Pick up 12 colors that VS Code's Solarized themes added for newer parts of the UI (agents panel, modern activity bar, panel section borders, inactive title and status bars)
+- New icon
+- Rewrite README, description, and keywords
+- Build from a pinned copy of VS Code's Solarized themes, so builds are reproducible; switch from yarn to npm
+
 ## 0.8.7
 
 - Fix GitHub security by removing dependencies

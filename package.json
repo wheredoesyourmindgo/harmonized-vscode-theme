@@ -2,7 +2,7 @@
   "name": "harmonized-vscode-theme",
   "displayName": "Harmonized",
   "type": "module",
-  "description": "Solarized in harmony",
+  "description": "Solarized light and dark themes, refined: more readable text, light and dark that match, plus high-contrast and accented variants.",
   "version": "0.8.7",
   "scripts": {
     "release:major": "npx @vscode/vsce publish major && git push --follow-tags",
@@ -31,10 +31,12 @@
   "keywords": [
     "theme",
     "solarized",
+    "solarized light",
+    "solarized dark",
     "light",
     "dark",
-    "zen",
-    "contrast"
+    "high contrast",
+    "readability"
   ],
   "contributes": {
     "themes": [
