@@ -3,7 +3,7 @@
   "displayName": "Harmonized",
   "type": "module",
   "description": "Solarized light and dark themes, refined: more readable text, light and dark that match, plus high-contrast and accented variants.",
-  "version": "0.8.7",
+  "version": "0.9.0",
   "scripts": {
     "release:major": "npx @vscode/vsce publish major && git push --follow-tags",
     "release:minor": "npx @vscode/vsce publish minor && git push --follow-tags",
